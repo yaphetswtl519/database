@@ -1,0 +1,35 @@
+{
+	"content": [
+		{
+			"tableName": "student",
+			"name": "char",
+			"age": "int",
+			"height": "int",
+			"mainKey": "name"
+		},
+		{
+			"tableName": "teacher",
+			"name": "char",
+			"age": "int",
+			"height": "int",
+			"mainKey": "name"
+		},
+		{
+			"tableName": "parent",
+			"name": "char",
+			"age": "int",
+			"mainKey": "name"
+		},
+		{
+			"tableName": "lesson",
+			"name": "char",
+			"subject": "char",
+			"mainKey": "name"
+		},
+		{
+			"tableName": "ss",
+			"name": "char",
+			"mainKey": "name"
+		}
+	]
+}
